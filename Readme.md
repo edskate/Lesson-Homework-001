@@ -16,3 +16,8 @@ Vegetbles: potato, onion, tomato, lettuce, peas
 Other foods: rice, beans, bread, egg, Milk, cheese, chocolate
 
 Other nouns: tast, texture
+## Words English
+# This is my car  
+# this is may Cat 🐈️
+# this is my 🐕️
+# this is my house 🏠️
