@@ -16,5 +16,3 @@ Vegetbles: potato, onion, tomato, lettuce, peas
 Other foods: rice, beans, bread, egg, Milk, cheese, chocolate
 
 Other nouns: tast, texture
-```
-
